@@ -1,0 +1,4 @@
+## Here are the details of the files
+- Dataset folder for dataset files
+- jupitor notebook contains the fine-tuning of the xgboost model, It also contains the save and load the model locally
+- huggingface folder contains the jupitor notebook that load the model files from the hugging face and all information how to use it for prediction.
